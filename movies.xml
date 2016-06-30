@@ -1,0 +1,56 @@
+<movie_collection xmlns:collection="http://movies.com">
+<movie>
+	<id="1">movie</id="1">
+	<title>THX 1138</title>
+	<description>In this sci-fi thriller, George Lucas shows you a grim distopic future in which people are named with letter-number designations, and their personalities are dampened with mandatory medication to make them complacent. Then, THX 1138, played by Robert Duvall, fights back.</description>
+	<showtimes>
+		<showtime1>11:30 AM</showtime1>
+		<showtime2>12:00 AM</showtime2>
+		<showtime3>9:00 PM</showtime3>
+	</showtimes>
+	<emptyElement/>
+	<emptyElement2/>
+
+</movie>
+<movie>
+	<id="2">movie</id="2">
+	<title>Spirited Away</title>
+	<description>Get lost in Miyazaki's deliciously rich fantasy world where a little girl, Chihiro, is trapped in an alternate world where she is forced to work at a bath house for spirits and deities in order to get back home to her parents.</description>
+	<showtimes>
+		<showtime1>10:00 PM</showtime1>
+		<showtime2>5:30 AM</showtime2>
+		<showtime3>9:08 PM</showtime3>
+	</showtimes>
+	<emptyElement3/>
+	<emptyElement4/>
+
+</movie>
+<movie>
+	<id="3">movie</id="3">
+	<title> Fruitvale Station</title>
+	<description>A damn tragic true story, only watch if you are ready to cry for a few hours afterward.</description>
+	<showtimes>
+		<showtime1>10:00 PM</showtime1>
+		<showtime2>9:00 AM</showtime2>
+		<showtime3>10:00 AM</showtime3>
+	</showtimes>
+	<emptyElement5/>
+	<emptyElement6/>
+
+</movie>
+<movie>
+	<id="4">movie</id="4">
+	<title>Best Of Enemies</title>
+	<description>A Great documentary about the televised debates at the 1968 RNC and DNC between Gore Vidal and William F. Buckley, Jr.</description>
+	<showtimes>
+		<showtime1>4:00 PM</showtime1>
+		<showtime2>9:00 PM</showtime2>
+		<showtime3>4:30 AM</showtime3>
+	</showtimes>
+	<emptyElement7/>
+	<emptyElement8/>
+
+</movie>
+
+
+</movie_collection>		

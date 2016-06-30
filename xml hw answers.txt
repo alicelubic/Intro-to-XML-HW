@@ -1,0 +1,11 @@
+
+1. 4 elements
+2. Namespace is the manifest at the top.
+3. parent: application
+children: activity, intent-filter, service
+intent filter is parent to action and category
+service is child of application
+4. I think these are the empty ones even though they have attributes?
+ <action android:name="android.intent.action.MAIN" />
+<category android:name="android.intent.category.LAUNCHER" />
+<activity android:name=".InformationActivity" />
